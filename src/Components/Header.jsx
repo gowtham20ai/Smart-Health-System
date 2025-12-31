@@ -62,14 +62,14 @@ const Header = () => {
                   <li className=' '>Doctor Appoinments </li>
                 </Link>
 
-                <Link to="#Web" >
+                <a href="#Web" >
 
                   <li className=' ' >webiste Records</li>
-                </Link>
+                </a>
 
-                <Link to="#Web" >
+                <a href="mailto:gowthamtkd80@gmail.com"  >
                   <li className=' '>Contact</li>
-                </Link>
+                </a>
 
                 <input className='w-fit h-[50px] rounded-2xl rounded-bl-none border border-b-red-500 p-1  space-y-3 ' placeholder='search '
                 />
@@ -102,13 +102,13 @@ const Header = () => {
                     <li className='hover:text-xl hover:bg-slate-400 p-2 rounded-lg  '>Doctor Appoinments</li></Link>
 
 
-                  <Link to="#Web"  >
+                  <a href="#Web"  >
 
-                    <li className='hover:text-xl hover:bg-slate-400 p-2 rounded-lg '>webiste Records </li></Link>
+                    <li className='hover:text-xl hover:bg-slate-400 p-2 rounded-lg '>webiste Records </li></a>
 
 
-                  <Link to="#Web"  >
-                    <li className='hover:text-xl hover:bg-slate-400  p-2 rounded-lg '>contact</li></Link>
+                   <a href="mailto:gowthamtkd80@gmail.com"  >
+                    <li className='hover:text-xl hover:bg-slate-400  p-2 rounded-lg '>contact</li></a>
 
 
                   <Link to="/Login"  >
