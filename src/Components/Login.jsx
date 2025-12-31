@@ -5,6 +5,7 @@ import { useNavigate } from "react-router-dom";
 import { signInWithEmailAndPassword, signOut } from 'firebase/auth';
 import { auth, db } from '../firebase';
 import { doc, updateDoc } from 'firebase/firestore';
+import { Link } from "react-router-dom";
 
 const schema = z.object({
     email: z.string().email({ message: 'Invalid email address' }),
@@ -95,7 +96,7 @@ const Login = () => {
           </div>
         </form>
         <p className="text-center mt-4">
-          Don't have an account? <a href="/register" className="text-blue-500 hover:text-blue-700">Register here</a>
+          Don't have an account? <Link to ="/register" className="text-blue-500 hover:text-blue-700">Register here</Link>
         </p>
       </div>
     </div>

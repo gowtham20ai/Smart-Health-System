@@ -30,7 +30,6 @@ const Click = () => {
   return (
     <>
       {/* <Hero /> */}
-      {/* <Timer/> */}
       <Home />
       <Doctor />
       <DoctorSkill />
@@ -42,6 +41,7 @@ const Click = () => {
 const AppLayout = () => {
   return (
     <>
+      <Timer/>
       <Header />
       <Outlet />
       <Footer />
@@ -82,7 +82,8 @@ const router = createBrowserRouter([
       {
         path: "/login",
         element: <Login />,
-      }, {
+      },
+       {
         path: "/register",
         element: <Register />
       }, 
