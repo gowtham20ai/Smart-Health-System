@@ -1,6 +1,6 @@
 
 import { Link } from "react-router-dom";
-import Trichy from "../visit/trichy";
+import Trichy from "../visit/Trichy";
 import Karur from "../visit/Karur";
 
 
