@@ -240,29 +240,7 @@ export const KarurWeb =[
     "location": "Palaniyappa Nagar, Karur, Tamil Nadu",
     "google_maps": "https://www.google.com/maps?q=Palaniyappa+Nagar,Karur"
   },
-  {
-    "name": "Elite Health Super Clinic",
-    "specialty": "All Specialities",
-    "rating": 4.8,
-    "experience_notes": "Premium healthcare and emergency response",
-    "location": "Vengamedu, Karur, Tamil Nadu",
-    "google_maps": "https://www.google.com/maps?q=Vengamedu,Karur"
-  },
-  {
-    "name": "Wellness Plus Multispeciality Clinic",
-    "specialty": "All Specialities",
-    "rating": 4.4,
-    "experience_notes": "Comprehensive care for all age groups",
-    "location": "Puliyur Road, Karur, Tamil Nadu",
-    "google_maps" : "https://www.google.com/maps?q=Puliyur+Road,Karur"
-  },
-  {
-    "name": "Infinity Super Clinic",
-    "specialty": "All Specialities",
-    "rating": 4.7,
-    "experience_notes": "One-stop solution for complete healthcare",
-    "location": "Salem Bypass Road, Karur, Tamil Nadu",
-    "google_maps": "https://www.google.com/maps?q=Salem+Bypass+Road,Karur"
-  }
+  
+  
 ]
 
