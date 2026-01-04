@@ -43,204 +43,301 @@ export const website = [
 
 ]
 
-export const  TrichyWeb = [
+export const  ErnakWeb = [
   {
-    "name": "Apollo Speciality Hospitals Trichy",
-    "specialty": "Multi-Specialty Hospital",
-    "rating": 4.8,
-    "experience_notes": "Large multi-speciality hospital with many specialists & facilities", 
-    "location": "Chennai Bypass Rd, Old Palpannai, Tiruchirappalli, Tamil Nadu 620008, India",
-    "google_maps": "https://maps.google.com/?q=Apollo+Speciality+Hospitals+Trichy"
+    "name": "Aster Medcity",
+    "specialty": "Multispeciality Hospital",
+    "rating": 4.7,
+    "experience_notes": "Advanced tertiary and quaternary care with multiple super specialties",
+    "location": "Cheranelloor, Kochi, Ernakulam, Kerala",
+    "google_maps": "https://maps.google.com/?q=Aster+Medcity+Kochi"
   },
   {
-    "name": "Dr. J.V. Punitha (at Apollo Speciality Hospitals)",
-    "specialty": "General Physician",
-    "rating": 4.9,
-    "experience_notes": "10+ years experience (Fever, Diabetes care)", 
-    "location": "Apollo Speciality Hospitals, Trichy",
-    "google_maps": "https://maps.google.com/?q=Apollo+Speciality+Hospitals+Trichy"
+    "name": "Lakeshore Hospital",
+    "specialty": "Super Speciality Hospital",
+    "rating": 4.5,
+    "experience_notes": "Comprehensive medical and surgical care with emergency services",
+    "location": "Nettoor, Kochi, Ernakulam, Kerala",
+    "google_maps": "https://maps.google.com/?q=Lakeshore+Hospital+Kochi"
   },
   {
-    "name": "Dr. Vasanth (Apollo)",
-    "specialty": "General Practitioner",
+    "name": "Lourdes Hospital",
+    "specialty": "Multispeciality Hospital",
     "rating": 4.6,
-    "experience_notes": "General health care/GP service",
-    "location": "Apollo Speciality Hospitals, Trichy",
-    "google_maps": "https://maps.google.com/?q=Apollo+Speciality+Hospitals+Trichy"
+    "experience_notes": "Well-established hospital with wide specialist services",
+    "location": "Pachalam, Kochi, Ernakulam, Kerala",
+    "google_maps": "https://maps.google.com/?q=Lourdes+Hospital+Kochi"
   },
   {
-    "name": "Royal Pearl Hospital",
-    "specialty": "ENT & Related Care",
-    "rating": 4.8,
-    "experience_notes": "Highly rated ENT & general care hospital", 
-    "location": "Thillai Nagar East, Tennur, Tiruchirappalli, Tamil Nadu 620018, India",
-    "google_maps": "https://maps.google.com/?q=Royal+Pearl+Hospital+Trichy"
+    "name": "Medical Trust Hospital",
+    "specialty": "Multispeciality Hospital",
+    "rating": 4.4,
+    "experience_notes": "Trusted healthcare provider with emergency and ICU facilities",
+    "location": "MG Road, Pallimukku, Kochi, Ernakulam, Kerala",
+    "google_maps": "https://maps.google.com/?q=Medical+Trust+Hospital+Kochi"
   },
   {
-    "name": "The Hormone Clinic",
-    "specialty": "Endocrinologist",
-    "rating": 4.9,
-    "experience_notes": "Popular endocrinology & hormone disorder specialist", 
-    "location": "West Thillai Nagar, Tiruchirappalli, Tamil Nadu 620018, India",
-    "google_maps": "https://maps.google.com/?q=The+Hormone+Clinic+Trichy"
+    "name": "Ernakulam Medical Centre",
+    "specialty": "Multispeciality Hospital",
+    "rating": 4.4,
+    "experience_notes": "Complete medical care including surgery and diagnostics",
+    "location": "Palarivattom, Kochi, Ernakulam, Kerala",
+    "google_maps": "https://maps.google.com/?q=Ernakulam+Medical+Centre"
   },
   {
-    "name": "Dr. Mohan's Diabetes Specialities Centre",
-    "specialty": "Diabetologist",
-    "rating": 5.0,
-    "experience_notes": "Highly rated diabetes specialist centre", 
-    "location": "Karur Bypass Rd, Annamalai Nagar, Tiruchirappalli, Tamil Nadu 620018, India",
-    "google_maps": "https://maps.google.com/?q=Dr.+Mohan's+Diabetes+Specialities+Centre+Trichy"
+    "name": "Kinder Multispeciality Hospital",
+    "specialty": "Multispeciality Hospital",
+    "rating": 4.6,
+    "experience_notes": "Advanced healthcare with modern infrastructure",
+    "location": "Kalamassery, Kochi, Ernakulam, Kerala",
+    "google_maps": "https://maps.google.com/?q=Kinder+Hospital+Kochi"
   },
   {
-    "name": "Dr. Thinakar Mani (Gastroenterologist)",
-    "specialty": "Gastroenterologist",
-    "rating": 4.9,
-    "experience_notes": "Top GI doctor with strong patient reviews", 
-    "location": "Tennur, Tiruchirappalli, Tamil Nadu 620017, India",
-    "google_maps": "https://maps.google.com/?q=Dr.+Thinakar+Mani+Trichy"
+    "name": "Sunrise Hospital",
+    "specialty": "Multispeciality Hospital",
+    "rating": 4.5,
+    "experience_notes": "Large hospital offering advanced specialist treatments",
+    "location": "Kakkanad, Kochi, Ernakulam, Kerala",
+    "google_maps": "https://maps.google.com/?q=Sunrise+Hospital+Kakkanad"
   },
   {
-    "name": "Dr. M. Hari Meyyappan (ENT)",
-    "specialty": "ENT Specialist",
-    "rating": 4.8,
-    "experience_notes": "ENT/Head & Neck surgeon with solid reviews", 
-    "location": "Cantonment, Tiruchirappalli, Tamil Nadu 620001, India",
-    "google_maps": "https://maps.google.com/?q=Dr.+M.+Hari+Meyyappan+Trichy"
+    "name": "Welcare Hospital",
+    "specialty": "General Hospital",
+    "rating": 4.4,
+    "experience_notes": "General and specialist care with emergency services",
+    "location": "Vyttila, Kochi, Ernakulam, Kerala",
+    "google_maps": "https://maps.google.com/?q=Welcare+Hospital+Vyttila"
   },
   {
-    "name": "Dr. Ajay Manickam (ENT Specialist)",
-    "specialty": "Otolaryngologist (ENT)",
-    "rating": 4.8,
-    "experience_notes": "Well-reviewed ENT specialist (Apollo)", 
-    "location": "Apollo Speciality Hospitals, Trichy",
-    "google_maps": "https://maps.google.com/?q=Dr.+Ajay+Manickam+Apollo+Trichy"
+    "name": "V G Saraf Memorial Hospital",
+    "specialty": "General Hospital",
+    "rating": 4.5,
+    "experience_notes": "Multi-department hospital with good patient care",
+    "location": "Ravipuram, Kochi, Ernakulam, Kerala",
+    "google_maps": "https://maps.google.com/?q=VG+Saraf+Memorial+Hospital"
   },
   {
-    "name": "Little Steps Kidz Clinic and Vaccination Centre (Dr. C. Vignesh)",
-    "specialty": "Pediatrician",
-    "rating": 4.9,
-    "experience_notes": "Highly rated pediatric & vaccination centre", 
-    "location": "Old Palpannai, Tiruchirappalli, Tamil Nadu 620008, India",
-    "google_maps": "https://maps.google.com/?q=Little+Steps+Kidz+Clinic+Trichy"
+    "name": "Lakshmi Hospital",
+    "specialty": "General Hospital",
+    "rating": 4.4,
+    "experience_notes": "Affordable and reliable healthcare services",
+    "location": "Pallimukku, Kochi, Ernakulam, Kerala",
+    "google_maps": "https://maps.google.com/?q=Lakshmi+Hospital+Kochi"
   },
   {
-    "name": "Retna Global Hospital",
-    "specialty": "Multi-Specialty Hospital",
-    "rating": 4.8,
-    "experience_notes": "Well-reviewed multi-speciality hospital", 
-    "location": "Anna Nagar, Tennur, Tiruchirappalli, Tamil Nadu 620017, India",
-    "google_maps": "https://maps.google.com/?q=Retna+Global+Hospital+Trichy"
+    "name": "Akshaya Hospital",
+    "specialty": "General Hospital",
+    "rating": 4.6,
+    "experience_notes": "Well-known local hospital with specialist doctors",
+    "location": "Kadavanthra, Kochi, Ernakulam, Kerala",
+    "google_maps": "https://maps.google.com/?q=Akshaya+Hospital+Kadavanthra"
   },
   {
-    "name": "Dr. Dhananjayan Piles & Fistula Clinic",
-    "specialty": "Piles & Fistula / Proctology",
-    "rating": 4.9,
-    "experience_notes": "Strong patient feedback for proctology treatment", 
-    "location": "Anna Nagar, Tennur, Tiruchirappalli, Tamil Nadu 620017, India",
-    "google_maps": "https://maps.google.com/?q=Dr.+Dhananjayan+Piles+Clinic+Trichy"
+    "name": "MAJ Hospital",
+    "specialty": "General Hospital",
+    "rating": 4.5,
+    "experience_notes": "Multi-speciality care with experienced medical staff",
+    "location": "Edappally, Kochi, Ernakulam, Kerala",
+    "google_maps": "https://maps.google.com/?q=MAJ+Hospital+Edappally"
   }
 ]
 
 
-export const KarurWeb =[
+export const KasaWeb =[
   {
-    "name": "Karur Prime Multispeciality Clinic",
-    "specialty": "All Specialities",
-    "rating": 4.8,
-    "experience_notes": "Advanced care for emergency, surgery, diagnostics and OPD",
-    "location": "Bus Stand Road, Karur, Tamil Nadu",
-    "google_maps": "https://www.google.com/maps?q=Bus+Stand+Road,Karur"
-  },
-  {
-    "name": "Sri Amaravathi Super Clinic",
+    "name": "Kasaragod Prime Multispeciality Clinic",
     "specialty": "All Specialities",
     "rating": 4.7,
-    "experience_notes": "24/7 emergency, ICU, laboratory and pharmacy",
-    "location": "Amaravathi Nagar, Karur, Tamil Nadu",
-    "google_maps": "https://www.google.com/maps?q=Amaravathi+Nagar,Karur"
+    "experience_notes": "Comprehensive healthcare and emergency services",
+    "location": "Kanhiradukam, Kasaragod, Kerala",
+    "google_maps": "https://maps.google.com/?q=Kanhiradukam+Kasaragod"
   },
   {
-    "name": "Vijaya Advanced Care Clinic",
+    "name": "CityCare Advanced Clinic",
     "specialty": "All Specialities",
     "rating": 4.6,
-    "experience_notes": "Complete healthcare for adults and children",
-    "location": "Vaiyapuri Nagar, Karur, Tamil Nadu",
-    "google_maps": "https://www.google.com/maps?q=Vaiyapuri+Nagar,Karur"
+    "experience_notes": "24/7 emergency and specialist consultation",
+    "location": "New Bus Stand Road, Kasaragod, Kerala",
+    "google_maps": "https://maps.google.com/?q=New+Bus+Stand+Road+Kasaragod"
   },
   {
-    "name": "Aravind Multispeciality Clinic",
+    "name": "Lifeline Multispeciality Clinic",
     "specialty": "All Specialities",
     "rating": 4.5,
-    "experience_notes": "High-quality consultation and diagnostic services",
-    "location": "Gandhigramam, Karur, Tamil Nadu",
-    "google_maps": "https://www.google.com/maps?q=Gandhigramam,Karur"
+    "experience_notes": "Family healthcare with modern facilities",
+    "location": "Vidyanagar, Kasaragod, Kerala",
+    "google_maps": "https://maps.google.com/?q=Vidyanagar+Kasaragod"
   },
   {
-    "name": "LifeCare Super Clinic",
-    "specialty": "All Specialities",
-    "rating": 4.7,
-    "experience_notes": "Modern equipment with expert doctors",
-    "location": "Jawahar Bazaar, Karur, Tamil Nadu",
-    "google_maps": "https://www.google.com/maps?q=Jawahar+Bazaar,Karur"
-  },
-  {
-    "name": "Apollo Style Clinic Karur",
+    "name": "MedStar Super Clinic",
     "specialty": "All Specialities",
     "rating": 4.6,
-    "experience_notes": "Premium healthcare with specialist doctors",
-    "location": "Ramanujam Nagar, Karur, Tamil Nadu",
-    "google_maps": "https://www.google.com/maps?q=Ramanujam+Nagar,Karur"
+    "experience_notes": "Advanced diagnostics and specialist care",
+    "location": "Uppala Road, Kasaragod, Kerala",
+    "google_maps": "https://maps.google.com/?q=Uppala+Road+Kasaragod"
   },
   {
-    "name": "New Hope Multispeciality Clinic",
+    "name": "Unity Health Multispeciality Clinic",
+    "specialty": "All Specialities",
+    "rating": 4.7,
+    "experience_notes": "Integrated healthcare for all age groups",
+    "location": "Chandragiri, Kasaragod, Kerala",
+    "google_maps": "https://maps.google.com/?q=Chandragiri+Kasaragod"
+  },
+  {
+    "name": "WellCare Advanced Medical Centre",
     "specialty": "All Specialities",
     "rating": 4.4,
-    "experience_notes": "Emergency, diagnostics and outpatient care",
-    "location": "Thanthonimalai, Karur, Tamil Nadu",
-    "google_maps": "https://www.google.com/maps?q=Thanthonimalai,Karur"
+    "experience_notes": "OPD, diagnostics and preventive care",
+    "location": "Mogral Puthur, Kasaragod, Kerala",
+    "google_maps": "https://maps.google.com/?q=Mogral+Puthur+Kasaragod"
   },
   {
-    "name": "CarePlus Super Clinic",
-    "specialty": "All Specialities",
-    "rating": 4.5,
-    "experience_notes": "Complete family healthcare solutions",
-    "location": "Sengunthapuram, Karur, Tamil Nadu",
-    "google_maps": "https://www.google.com/maps?q=Sengunthapuram,Karur"
-  },
-  {
-    "name": "MediTrust Advanced Clinic",
+    "name": "Hope Multispeciality Clinic",
     "specialty": "All Specialities",
     "rating": 4.6,
-    "experience_notes": "Specialist consultation and preventive care",
-    "location": "Ashok Nagar, Karur, Tamil Nadu",
-    "google_maps": "https://www.google.com/maps?q=Ashok+Nagar,Karur"
+    "experience_notes": "Patient-focused specialised treatments",
+    "location": "Badiadka, Kasaragod, Kerala",
+    "google_maps": "https://maps.google.com/?q=Badiadka+Kasaragod"
   },
   {
-    "name": "Unity Multispeciality Clinic",
+    "name": "Elite Care Super Clinic",
+    "specialty": "All Specialities",
+    "rating": 4.8,
+    "experience_notes": "Premium healthcare and emergency response",
+    "location": "Kumbla, Kasaragod, Kerala",
+    "google_maps": "https://maps.google.com/?q=Kumbla+Kasaragod"
+  },
+  {
+    "name": "TrustMed Multispeciality Clinic",
+    "specialty": "All Specialities",
+    "rating": 4.5,
+    "experience_notes": "Expert doctors with modern infrastructure",
+    "location": "Trikaripur Road, Kasaragod, Kerala",
+    "google_maps": "https://maps.google.com/?q=Trikaripur+Road+Kasaragod"
+  },
+  {
+    "name": "Infinity Health Super Clinic",
     "specialty": "All Specialities",
     "rating": 4.7,
-    "experience_notes": "Integrated medical and diagnostic services",
-    "location": "Kombupalayam, Karur, Tamil Nadu",
-    "google_maps": "https://www.google.com/maps?q=Kombupalayam,Karur"
+    "experience_notes": "Complete healthcare solution under one roof",
+    "location": "NH 66, Kasaragod, Kerala",
+    "google_maps": "https://maps.google.com/?q=NH+66+Kasaragod"
   },
   {
-    "name": "Golden Care Super Clinic",
+    "name": "CarePlus Multispeciality Clinic",
     "specialty": "All Specialities",
-    "rating": 4.5,
-    "experience_notes": "High-standard patient care and treatment",
-    "location": "Kamarajapuram, Karur, Tamil Nadu",
-    "google_maps": "https://www.google.com/maps?q=Kamarajapuram,Karur"
+    "rating": 4.4,
+    "experience_notes": "General, emergency and specialist care",
+    "location": "Madhur Road, Kasaragod, Kerala",
+    "google_maps": "https://maps.google.com/?q=Madhur+Road+Kasaragod"
   },
   {
-    "name": "TrustCare Multispeciality Clinic",
+    "name": "GreenLife Super Clinic",
     "specialty": "All Specialities",
     "rating": 4.6,
-    "experience_notes": "Expert doctors with modern infrastructure",
-    "location": "Palaniyappa Nagar, Karur, Tamil Nadu",
-    "google_maps": "https://www.google.com/maps?q=Palaniyappa+Nagar,Karur"
-  },
-  
-  
+    "experience_notes": "Holistic healthcare with modern technology",
+    "location": "Chemmattamvayal, Kasaragod, Kerala",
+    "google_maps": "https://maps.google.com/?q=Chemmattamvayal+Kasaragod"
+  }
 ]
 
+
+export const ThiruWeb = [
+  {
+    "name": "KIMS Ushalakshmi Centre for Breast Diseases",
+    "specialty": "Speciality Hospital",
+    "rating": 4.6,
+    "experience_notes": "Advanced breast care with diagnostics and surgery",
+    "location": "Anayara, Thiruvananthapuram, Kerala",
+    "google_maps": "https://maps.google.com/?q=KIMS+Ushalakshmi+Centre+Trivandrum"
+  },
+  {
+    "name": "KIMS Hospital",
+    "specialty": "Multispeciality Hospital",
+    "rating": 4.7,
+    "experience_notes": "One of Kerala’s largest multispeciality hospitals",
+    "location": "Anayara, Thiruvananthapuram, Kerala",
+    "google_maps": "https://maps.google.com/?q=KIMS+Hospital+Trivandrum"
+  },
+  {
+    "name": "Ananthapuri Hospitals and Research Institute",
+    "specialty": "Multispeciality Hospital",
+    "rating": 4.5,
+    "experience_notes": "Advanced medical and surgical care",
+    "location": "Chacka, Thiruvananthapuram, Kerala",
+    "google_maps": "https://maps.google.com/?q=Ananthapuri+Hospital+Trivandrum"
+  },
+  {
+    "name": "SUT Hospital",
+    "specialty": "Multispeciality Hospital",
+    "rating": 4.6,
+    "experience_notes": "Super speciality services with modern facilities",
+    "location": "Pattom, Thiruvananthapuram, Kerala",
+    "google_maps": "https://maps.google.com/?q=SUT+Hospital+Pattom"
+  },
+  {
+    "name": "PRS Hospital",
+    "specialty": "Multispeciality Hospital",
+    "rating": 4.4,
+    "experience_notes": "Comprehensive healthcare and emergency services",
+    "location": "Killipalam, Thiruvananthapuram, Kerala",
+    "google_maps": "https://maps.google.com/?q=PRS+Hospital+Trivandrum"
+  },
+  {
+    "name": "Cosmopolitan Hospital",
+    "specialty": "Multispeciality Hospital",
+    "rating": 4.5,
+    "experience_notes": "Well-known hospital with multiple specialties",
+    "location": "Murinjapalam, Thiruvananthapuram, Kerala",
+    "google_maps": "https://maps.google.com/?q=Cosmopolitan+Hospital+Trivandrum"
+  },
+  {
+    "name": "SP Fort Hospital",
+    "specialty": "Multispeciality Hospital",
+    "rating": 4.4,
+    "experience_notes": "Trusted hospital with surgical and medical departments",
+    "location": "Fort, Thiruvananthapuram, Kerala",
+    "google_maps": "https://maps.google.com/?q=SP+Fort+Hospital+Trivandrum"
+  },
+  {
+    "name": "GG Hospital",
+    "specialty": "Multispeciality Hospital",
+    "rating": 4.6,
+    "experience_notes": "Advanced laparoscopic and general surgery services",
+    "location": "Pattom, Thiruvananthapuram, Kerala",
+    "google_maps": "https://maps.google.com/?q=GG+Hospital+Pattom"
+  },
+  {
+    "name": "Credence Hospital",
+    "specialty": "Multispeciality Hospital",
+    "rating": 4.5,
+    "experience_notes": "Modern hospital with patient-focused care",
+    "location": "Ulloor, Thiruvananthapuram, Kerala",
+    "google_maps": "https://maps.google.com/?q=Credence+Hospital+Ulloor"
+  },
+  {
+    "name": "Sree Gokulam Medical College Hospital",
+    "specialty": "Teaching & Multispeciality Hospital",
+    "rating": 4.3,
+    "experience_notes": "Medical college hospital with wide specialty services",
+    "location": "Venjaramoodu, Thiruvananthapuram, Kerala",
+    "google_maps": "https://maps.google.com/?q=Sree+Gokulam+Medical+College+Hospital"
+  },
+  {
+    "name": "Lourdes Hospital",
+    "specialty": "General Hospital",
+    "rating": 4.4,
+    "experience_notes": "Affordable and reliable medical care",
+    "location": "Pettah, Thiruvananthapuram, Kerala",
+    "google_maps": "https://maps.google.com/?q=Lourdes+Hospital+Trivandrum"
+  },
+  {
+    "name": "Regional Cancer Centre (RCC)",
+    "specialty": "Cancer Speciality Hospital",
+    "rating": 4.7,
+    "experience_notes": "Premier government cancer treatment and research center",
+    "location": "Medical College, Thiruvananthapuram, Kerala",
+    "google_maps": "https://maps.google.com/?q=Regional+Cancer+Centre+Trivandrum"
+  }
+]

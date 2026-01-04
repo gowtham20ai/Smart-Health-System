@@ -8,8 +8,8 @@ import Doctor from './Components/Doctor'
 import DoctorSkill from './Components/DoctorSkill'
 import Web from './Components/Web'
 import Footer from './Components/Footer'
-import Trichy from './visit/Trichy'
-import Karur from './visit/Karur'
+import Ernakulam from './visit/Ernakulam'
+import Kasaragod from './visit/Kasaragod'
 import Appoinments from './DocApp/Appoinments'
 import PaymentQR from './DocApp/PaymentQR'
 import AIchat from './Components/AIchat'
@@ -18,6 +18,7 @@ import Register from './Components/Register'
 import Home from './Components/Home'
 import Timer from './Components/Timer'
 import ErrorPage from './Components/ErrorPage'
+import Thiruvananthapuram from './visit/Thiruvananthapuram'
 
 
 
@@ -42,7 +43,7 @@ const Click = () => {
 const AppLayout = () => {
   return (
     <>
-      <Timer/>
+      {/* <Timer/> */}
       <Header />
       <Outlet />
       <Footer />
@@ -60,11 +61,14 @@ const router = createBrowserRouter([
         path: "/",
         element: <Click />,
       }, {
-        path: "/Trichy",
-        element: <Trichy />,
+        path: "/Ernakulam",
+        element: <Ernakulam/>,
       }, {
-        path: "/karur",
-        element: <Karur />,
+        path: "/Kasaragod ",
+        element: < Kasaragod  />,
+      },{
+        path: "/Thiruvananthapuram ",
+        element: < Thiruvananthapuram   />,
       }, {
         path: "/Appoinments",
         element: <Appoinments />,

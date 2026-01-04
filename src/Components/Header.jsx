@@ -9,13 +9,13 @@ const Header = () => {
     <>
       <header >
         <nav className=" 2xl-container max-auto">
-          <div className=" w-[90%] mx-auto top-5  scroll-smooth ">
+          <div className=" w-[90%] mx-auto top-5 justiify-between scroll-smooth ">
 
 
             <div className='flex items-center mt-4'>
-              <img src="https://ik.imagekit.io/8wxvbajv2/Health-Insurance.jpg" alt="HealthCare" className='w-[100px] object-cover
+              <img src="https://ik.imagekit.io/u6x1wnxm1/file_000000006a5071fabb86c33b7e671ac4%20(1).png" alt="HealthCare" className='w-[100px] object-cover
             h-[80px] rounded-[30px] rounded-bl-none flex justify-start items-center lg:w-[100px] lg:h-[80px]  ' />
-              <h1 className='ml-2 text-3xl font-semibold'>HealthCare</h1>
+              <h1 className='ml-2 text-3l font-semibold w-screen'>Smart Health System</h1>
 
 
               {/* <input className='w-[120px] h-[40px] rounded-xl rounded-bl-none border border-b-red-500 p-2  m-8 md:w-[900px]
@@ -67,7 +67,7 @@ const Header = () => {
                   <li className=' ' >webiste Records</li>
                 </a>
 
-                <a href="mailto:gowthamtkd80@gmail.com"  >
+                <a href="mailto:joemonwilliam7@gmail.com"  >
                   <li className=' '>Contact</li>
                 </a>
 
@@ -107,7 +107,7 @@ const Header = () => {
                     <li className='hover:text-xl hover:bg-slate-400 p-2 rounded-lg '  onClick={() => setIsopen(false)}   >webiste Records </li></a>
 
 
-                   <a href="mailto:gowthamtkd80@gmail.com"  >
+                   <a href="mailto:joemonwilliam7@gmail.com"  >
                     <li className='hover:text-xl hover:bg-slate-400  p-2 rounded-lg '    onClick={() => setIsopen(false)}     >contact</li></a>
 
 

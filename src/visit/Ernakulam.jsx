@@ -1,12 +1,12 @@
-import { KarurWeb } from "../Components/Card"
+import { ErnakWeb } from "../Components/Card"
 import {  Link } from "react-router-dom"
 import React from "react"
 
-const Karur1 = ({ name, specialty, rating, experience_notes, location, google_maps }) => {
+const Ernak1 = ({ name, specialty, rating, experience_notes, location, google_maps }) => {
     return (
         <>
 
-            <div className=' w-fit h-fit  p-5 space-x-2 space-y-3 shadow-2xl shadow-orange-50 m-3 bg-white rounded-2xl 
+            <div className=' w-fit h-fit p-5 space-x-2 space-y-3 shadow-2xl shadow-orange-50 m-3 bg-white rounded-2xl 
            
               '>
                 <h1 className='font-[Roboto] text-xl' >Name : {name}</h1>
@@ -24,22 +24,24 @@ const Karur1 = ({ name, specialty, rating, experience_notes, location, google_ma
 }
 
 
-const Karur = () => {
+const Ernakulam = () => {
     return (
 
         <>
 
-            <h1 className='font-[Roboto] text-2xl mt-8 ml-10'>Karur City </h1>
+            <h1 className='font-[Roboto] text-2xl mt-8 ml-10'>Ernakulam City</h1>
 
             <div className='2xl-container mx-auto '>
-                <div className='  w-[90%] mx-auto mt-8 justify-between items-center gap-8 grid md:grid-cols-2 lg:grid-cols-3'>
+                <div className='  w-[90%]  
+                 mx-auto mt-8 justify-between items-center gap-8 m-4 grid md:grid-cols-2 lg:grid-cols-3'>
 
 
                     {
-                        KarurWeb.map((items, index) => {
-                            console.log(KarurWeb)
+                        ErnakWeb.map((items, index) => {
+                            console.log(ErnakWeb)
                             return (
-                                <Karur1
+                                <Ernak1
+
                                     key={index}
                                     name={items.name}
                                     specialty={items.specialty}
@@ -64,4 +66,4 @@ const Karur = () => {
     )
 }
 
-export default Karur;
+export default Ernakulam ;

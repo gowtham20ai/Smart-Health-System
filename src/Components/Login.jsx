@@ -50,7 +50,7 @@ const Login = () => {
   return (
     <div className="min-h-fit w-[92%] ml-5  mt-10 flex items-center justify-center  animate-fade-in">
       <div className="bg-white p-5 rounded-lg shadow-lg justify-center  w-full  max-w-md animate-slide-up">
-        <h2 className="text-2xl font-bold text-center mb-6 text-gray-800">Login to HealthCare</h2>
+        <h2 className="text-2xl font-bold text-center mb-6 text-gray-800">Login to Smart  Health System</h2>
         <form onSubmit={handleSubmit(handleSubmits)}>
           <div className="mb-4">
             <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="email">

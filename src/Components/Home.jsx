@@ -20,7 +20,7 @@ const Home = () => {
     <div className="min-h-fit  mt-8 p-8">
       <div className="max-w-4xl mx-auto">
         <h1 className="text-4xl font-bold text-center mb-8 text-gray-800 animate-fade-in">
-          Welcome to Your Healthcare Dashboard
+          Welcome to Your Smart Health System Dashboard
         </h1>
 
       
