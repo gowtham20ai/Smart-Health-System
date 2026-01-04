@@ -10,11 +10,11 @@ const Doctor = () => {
 
     <>
       <div className='2xl-container mx-auto '>
-        <div className='  w-[90%]  backdrop:md:w-[90%] mx-auto mt-8'>
+        <div className='  w-[95%]  backdrop:md:w-[90%] mx-auto mt-8'>
           <h1 className=' text-2xl font-[Roboto]'> Place of Visiting Doctor </h1>
 
           <div className='mt-6'>
-            <div className=' flex justify-around  grid grid-cols-2 md:grid-cols-3 gap-2 mt-3 '>
+            <div className=' flex justify-around p-2 grid grid-cols-2 md:grid-cols-4 gap-4 mt-3 mb-3 '>
              <Link to = "/Ernakulam" >
               <h1 className='w-fit  bg-white shadow-xl rounded-lg p-1 '>Ernakulam</h1>
               </Link>

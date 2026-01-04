@@ -43,7 +43,7 @@ const Click = () => {
 const AppLayout = () => {
   return (
     <>
-      {/* <Timer/> */}
+      <Timer/>
       <Header />
       <Outlet />
       <Footer />
